@@ -1,0 +1,1 @@
+if current_hp <= 0 {current_hp = 0; objFightController.state = fight_states.DEFEAT}
